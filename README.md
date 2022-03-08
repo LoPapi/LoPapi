@@ -25,6 +25,6 @@
     <a href="https://t.me/LoPapi01" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="telegram"
      target="_blank"></a>
     
-    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/LoPapi/LoPapi/blob/output/github-contribution-grid-snake.svg)
   
 </div>
