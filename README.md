@@ -22,7 +22,7 @@
 ##
   
 <div>
-    <a href="" target="_blank"><img src="" title="telegram"
+    <a href="" target="_blank"><img src="" title=""
      target="_blank"></a>
 </div>
   
