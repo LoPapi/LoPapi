@@ -1,4 +1,4 @@
-### Hi, My name is Kelly Esteves, I'm a Junior Software Developer
+### Hi, My name is Kelly Esteves, I'm a Cybersecurity Analyst
 
 - 🔭 I’m currently working on Web Dev(`HTML`,`CSS`, `JS`, `PHP`)
 - 🌱 I’m currently learning `Python`|`JS`
