@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning `Python`|`JS`
 - 📫 How to reach me: Kellyesteves95@live.com
 <div align="center">
-  <a href="https://github.com/rafaballerini">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LoPapi&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="150em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoPapi&layout=compact&langs_count=7&theme=merko"/>
 </div>
